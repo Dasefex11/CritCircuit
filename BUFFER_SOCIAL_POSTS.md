@@ -2,6 +2,10 @@
 
 Use these for Buffer when posting CritCircuit articles to Facebook and X.
 
+Important: paste the full article URL into Buffer, not just `https://critcircuit.com`.
+If Facebook shows only the plain domain preview, remove and re-add the link or run the exact
+article URL through the Facebook Sharing Debugger and click "Scrape Again."
+
 ## Handheld Gaming PCs Have a Battery Problem Nobody Can Ignore
 
 URL: https://critcircuit.com/articles/handheld-pc-battery-life.html

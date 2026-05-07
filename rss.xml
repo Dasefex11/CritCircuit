@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CritCircuit</title>
+    <link>https://critcircuit.com/</link>
+    <atom:link href="https://critcircuit.com/rss.xml" rel="self" type="application/rss+xml" />
+    <description>Gaming drama, new releases, streamer culture, and daily articles without the stale press-release energy.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 07 May 2026 15:45:00 -0400</lastBuildDate>
+    <generator>CritCircuit static RSS</generator>
+    <item>
+      <title>Streamer Drama Is Eating the Internet, but Fans Are Tired of Fake Receipts</title>
+      <link>https://critcircuit.com/articles/streamer-drama-receipts.html</link>
+      <guid isPermaLink="true">https://critcircuit.com/articles/streamer-drama-receipts.html</guid>
+      <pubDate>Thu, 07 May 2026 15:45:00 -0400</pubDate>
+      <category>Streamer Culture</category>
+      <description>Streamer drama moves fast, but audiences are getting better at spotting weak receipts, fake outrage, and rumor-first coverage.</description>
+    </item>
+    <item>
+      <title>Survival Games Are About to Expose the Lazy Early Access Cash Grab</title>
+      <link>https://critcircuit.com/articles/survival-games-2026.html</link>
+      <guid isPermaLink="true">https://critcircuit.com/articles/survival-games-2026.html</guid>
+      <pubDate>Thu, 07 May 2026 15:40:00 -0400</pubDate>
+      <category>New Games</category>
+      <description>Survival games are entering a trust era, and 2026 may separate ambitious worlds from lazy early access cash grabs.</description>
+    </item>
+    <item>
+      <title>The Console War Might Be Moving to Your PC, and That Should Scare Everyone</title>
+      <link>https://critcircuit.com/articles/console-style-pc-gaming.html</link>
+      <guid isPermaLink="true">https://critcircuit.com/articles/console-style-pc-gaming.html</guid>
+      <pubDate>Thu, 07 May 2026 15:35:00 -0400</pubDate>
+      <category>Platform Watch</category>
+      <description>PC gaming is getting more console-like, and the next platform war may be fought through handhelds, dashboards, and cloud saves.</description>
+    </item>
+  </channel>
+</rss>

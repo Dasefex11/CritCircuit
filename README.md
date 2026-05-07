@@ -13,6 +13,7 @@ Planned launch date: **May 15, 2026**
 - `articles/survival-games-2026.html` - long-form article.
 - `articles/console-style-pc-gaming.html` - long-form article.
 - `articles/streamer-drama-receipts.html` - long-form article.
+- `rss.xml` - RSS feed for social automation tools like Zapier and Buffer.
 - `styles.css` - full site styling and mobile layout.
 - `ads.js` - hides empty ad slots until ad provider code is added.
 
@@ -30,7 +31,7 @@ Planned launch date: **May 15, 2026**
 - Replace any placeholder URLs with the live domain if needed.
 - Add privacy policy, about, and contact pages.
 - Add analytics before launch.
-- Add RSS feed before social automation.
+- Keep `rss.xml` updated before connecting social automation.
 - Test homepage and article pages on mobile.
 - Verify article previews on Facebook, Discord, and X after the domain is live.
 

@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">Cozy sleeping gamer illustration</title>
+  <desc id="desc">Anime-inspired cozy gamer sleeping under a blanket beside a handheld console.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#191f3a"/>
+      <stop offset="0.54" stop-color="#3b2147"/>
+      <stop offset="1" stop-color="#0b1324"/>
+    </linearGradient>
+    <linearGradient id="blanket" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#ff8ccf"/>
+      <stop offset="1" stop-color="#70e4ff"/>
+    </linearGradient>
+    <radialGradient id="lamp" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#fff6c9" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#fff6c9" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#bg)"/>
+  <circle cx="1000" cy="135" r="210" fill="url(#lamp)" opacity="0.75"/>
+  <g opacity="0.2" fill="none" stroke="#ffffff" stroke-width="4">
+    <path d="M120 120h160v90H120z"/>
+    <path d="M165 170h70"/>
+    <path d="M880 105h170v100H880z"/>
+    <path d="M910 145h110M910 170h82"/>
+  </g>
+  <g transform="translate(180 180)">
+    <path d="M78 365c18-110 120-185 260-205 184-26 367 35 522 123 58 33 90 93 77 155l-9 42H54z" fill="#141a2b"/>
+    <path d="M112 361c63-96 181-144 354-144 181 0 320 54 430 143 39 32 61 73 58 118H60c-8-41 11-84 52-117z" fill="url(#blanket)"/>
+    <path d="M120 411c125-32 260-37 405-16 142 21 270 60 389 117H78c-5-39 8-75 42-101z" fill="#fff7fd" opacity="0.18"/>
+    <path d="M202 333c82-17 167-18 255-3M534 339c87 10 166 34 237 72" fill="none" stroke="#ffffff" stroke-width="8" stroke-linecap="round" opacity="0.25"/>
+    <g transform="translate(355 48)">
+      <path d="M75 156c-35-28-51-69-41-107 55 0 95 21 120 64 35-39 77-56 127-47 1 42-18 79-56 110z" fill="#35223f"/>
+      <circle cx="164" cy="155" r="108" fill="#ffd2bd"/>
+      <path d="M73 128c18-74 74-111 159-104 60 5 101 42 118 110-52-28-112-37-179-27-39 6-72 13-98 21z" fill="#2b1a35"/>
+      <path d="M119 166c18 18 37 18 56 0M218 166c18 18 37 18 56 0" fill="none" stroke="#2b1a35" stroke-width="7" stroke-linecap="round"/>
+      <path d="M188 205c21 12 43 12 66 0" fill="none" stroke="#e8848f" stroke-width="7" stroke-linecap="round"/>
+      <circle cx="71" cy="167" r="22" fill="#ffc1b5"/>
+      <circle cx="341" cy="167" r="22" fill="#ffc1b5"/>
+    </g>
+    <g transform="translate(690 385) rotate(-7)">
+      <rect width="185" height="86" rx="34" fill="#101827" stroke="#70e4ff" stroke-width="8"/>
+      <circle cx="49" cy="43" r="17" fill="#ff8ccf"/>
+      <path d="M128 33h28M142 19v28" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+    </g>
+  </g>
+  <g fill="#fff7c7" opacity="0.9">
+    <path d="M165 175l13 29 31 4-23 21 6 31-27-15-27 15 6-31-23-21 31-4z"/>
+    <path d="M1010 310l8 18 20 3-15 13 4 20-17-10-18 10 4-20-15-13 20-3z"/>
+    <circle cx="930" cy="230" r="8"/>
+    <circle cx="250" cy="110" r="6"/>
+  </g>
+</svg>

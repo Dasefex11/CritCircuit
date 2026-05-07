@@ -556,6 +556,27 @@ button.button {
       center / cover;
 }
 
+.handheld-thumb {
+  background:
+    linear-gradient(rgba(5, 8, 14, 0.08), rgba(5, 8, 14, 0.34)),
+    url("https://images.unsplash.com/photo-1593305841991-05c297ba4575?auto=format&fit=crop&w=1000&q=80")
+      center / cover;
+}
+
+.cozy-thumb {
+  background:
+    linear-gradient(rgba(5, 8, 14, 0.04), rgba(5, 8, 14, 0.2)),
+    url("social-assets/cozy-sleeping-gamer.svg")
+      center / cover;
+}
+
+.live-thumb {
+  background:
+    linear-gradient(rgba(5, 8, 14, 0.08), rgba(5, 8, 14, 0.34)),
+    url("https://images.unsplash.com/photo-1556438064-2d7646166914?auto=format&fit=crop&w=1000&q=80")
+      center / cover;
+}
+
 .creator-thumb {
   background:
     linear-gradient(rgba(5, 8, 14, 0.08), rgba(5, 8, 14, 0.34)),

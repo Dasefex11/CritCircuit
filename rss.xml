@@ -6,8 +6,32 @@
     <atom:link href="https://critcircuit.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Gaming drama, new releases, streamer culture, and daily articles without the stale press-release energy.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2026 15:45:00 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 18:30:00 -0400</lastBuildDate>
     <generator>CritCircuit static RSS</generator>
+    <item>
+      <title>Handheld Gaming PCs Have a Battery Problem Nobody Can Ignore</title>
+      <link>https://critcircuit.com/articles/handheld-pc-battery-life.html</link>
+      <guid isPermaLink="true">https://critcircuit.com/articles/handheld-pc-battery-life.html</guid>
+      <pubDate>Thu, 07 May 2026 18:30:00 -0400</pubDate>
+      <category>Hardware</category>
+      <description>Handheld gaming PCs are exciting, but battery life may decide which ones become daily drivers instead of expensive couch gadgets.</description>
+    </item>
+    <item>
+      <title>Cozy Games Are Done Being Treated Like Boring Games</title>
+      <link>https://critcircuit.com/articles/cozy-games-not-boring.html</link>
+      <guid isPermaLink="true">https://critcircuit.com/articles/cozy-games-not-boring.html</guid>
+      <pubDate>Thu, 07 May 2026 18:25:00 -0400</pubDate>
+      <category>Indie Watch</category>
+      <description>Cozy games are evolving past soft visuals and simple chores into smarter, stranger, and more emotionally sticky experiences.</description>
+    </item>
+    <item>
+      <title>Live-Service Games Are Running Out of Second Chances</title>
+      <link>https://critcircuit.com/articles/live-service-fatigue.html</link>
+      <guid isPermaLink="true">https://critcircuit.com/articles/live-service-fatigue.html</guid>
+      <pubDate>Thu, 07 May 2026 18:20:00 -0400</pubDate>
+      <category>Opinion</category>
+      <description>Players are not rejecting every live-service game. They are rejecting grindy seasons, weak rewards, and games that treat attention like a subscription.</description>
+    </item>
     <item>
       <title>Streamer Drama Is Eating the Internet, but Fans Are Tired of Fake Receipts</title>
       <link>https://critcircuit.com/articles/streamer-drama-receipts.html</link>

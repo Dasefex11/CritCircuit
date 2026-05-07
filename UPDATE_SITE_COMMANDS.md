@@ -5,7 +5,7 @@ Use these prompts when you want Codex to update CritCircuit.
 ## Full Daily Update
 
 ```text
-Update CritCircuit with 3 fresh gaming/streamer articles for today. For each article, identify the target keyword or named topic, check current competing coverage, find a content gap CritCircuit can cover better, choose a stronger article angle, write a clickable but accurate headline, and create an SEO title, meta description, Open Graph title/description, and social caption. Keep claims accurate and source-aware, add internal links when useful, update rss.xml with the newest posts, make the homepage show the newest 3 articles first, move older articles into the archive/index, keep everything mobile-friendly, commit the changes, and push to GitHub so Netlify deploys.
+Update CritCircuit with 3 fresh gaming/streamer articles for today. For each article, identify the target keyword or named topic, check current competing coverage, find a content gap CritCircuit can cover better, choose a stronger article angle, write a clickable but accurate headline, and create an SEO title, meta description, Open Graph title/description, and social caption. Keep claims accurate and source-aware, add internal links when useful, update rss.xml with the newest posts, make the homepage show the newest 3 articles first, move older articles into the archive/index, refresh the streamer section with 4 advertiser-friendly creators, avoid controversy-heavy public figures, keep everything mobile-friendly, commit the changes, and push to GitHub so Netlify deploys.
 ```
 
 ## Short Daily Update

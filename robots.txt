@@ -1,22 +1,22 @@
-User-agent: *
-Allow: /
-
 User-agent: facebookexternalhit
-Allow: /
+Disallow:
 
 User-agent: Facebot
-Allow: /
+Disallow:
 
 User-agent: FacebookBot
-Allow: /
+Disallow:
 
 User-agent: Meta-ExternalAgent
-Allow: /
+Disallow:
 
 User-agent: Meta-ExternalFetcher
-Allow: /
+Disallow:
 
 User-agent: facebookcatalog
-Allow: /
+Disallow:
+
+User-agent: *
+Disallow:
 
 Sitemap: https://critcircuit.com/rss.xml

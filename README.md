@@ -39,3 +39,5 @@ Planned launch date: **May 15, 2026**
 ```text
 Update CritCircuit with 3 fresh gaming/streamer articles for today. Make the homepage show the newest 3 articles first, move older articles into the archive/index, update social captions, and keep everything mobile-friendly.
 ```
+
+More update prompts are saved in `UPDATE_SITE_COMMANDS.md`.

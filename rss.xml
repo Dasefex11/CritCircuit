@@ -6,8 +6,32 @@
     <atom:link href="https://critcircuit.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Gaming drama, new releases, streamer culture, and daily articles without the stale press-release energy.</description>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 May 2026 18:30:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 07:45:00 -0400</lastBuildDate>
     <generator>CritCircuit static RSS</generator>
+    <item>
+      <title>Summer Game Fest 2026 Is About to Test Everyone's Trailer Patience</title>
+      <link>https://critcircuit.com/articles/summer-game-fest-2026-hype-test.html</link>
+      <guid isPermaLink="true">https://critcircuit.com/articles/summer-game-fest-2026-hype-test.html</guid>
+      <pubDate>Fri, 08 May 2026 07:45:00 -0400</pubDate>
+      <category>Showcase Watch</category>
+      <description>Summer Game Fest 2026 has dates on the calendar, but trailer week needs stronger proof than logos, vibes, and vague release windows.</description>
+    </item>
+    <item>
+      <title>Forza Horizon 6 Is Turning May Into a Game Pass Stress Test</title>
+      <link>https://critcircuit.com/articles/forza-horizon-6-game-pass-may.html</link>
+      <guid isPermaLink="true">https://critcircuit.com/articles/forza-horizon-6-game-pass-may.html</guid>
+      <pubDate>Fri, 08 May 2026 07:40:00 -0400</pubDate>
+      <category>Game Pass</category>
+      <description>Forza Horizon 6 launching day one on Game Pass turns May into a useful test of subscription value, launch hype, and crowded release windows.</description>
+    </item>
+    <item>
+      <title>TwitchCon 2026 Is Quietly Making Creator Safety the Main Story</title>
+      <link>https://critcircuit.com/articles/twitchcon-2026-creator-safety.html</link>
+      <guid isPermaLink="true">https://critcircuit.com/articles/twitchcon-2026-creator-safety.html</guid>
+      <pubDate>Fri, 08 May 2026 07:35:00 -0400</pubDate>
+      <category>Creator Culture</category>
+      <description>TwitchCon 2026 is more than panels and meetups. Creator safety, support, and event design are becoming part of the story.</description>
+    </item>
     <item>
       <title>Handheld Gaming PCs Have a Battery Problem Nobody Can Ignore</title>
       <link>https://critcircuit.com/articles/handheld-pc-battery-life.html</link>

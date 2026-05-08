@@ -577,6 +577,27 @@ button.button {
       center / cover;
 }
 
+.sgf-thumb {
+  background:
+    linear-gradient(rgba(5, 8, 14, 0.08), rgba(5, 8, 14, 0.34)),
+    url("social-assets/summer-game-fest-2026-hype-test.png")
+      center / cover;
+}
+
+.forza-thumb {
+  background:
+    linear-gradient(rgba(5, 8, 14, 0.08), rgba(5, 8, 14, 0.34)),
+    url("social-assets/forza-horizon-6-game-pass-may.png")
+      center / cover;
+}
+
+.twitchcon-thumb {
+  background:
+    linear-gradient(rgba(5, 8, 14, 0.08), rgba(5, 8, 14, 0.34)),
+    url("social-assets/twitchcon-2026-creator-safety.png")
+      center / cover;
+}
+
 .creator-thumb {
   background:
     linear-gradient(rgba(5, 8, 14, 0.08), rgba(5, 8, 14, 0.34)),
@@ -611,17 +632,22 @@ button.button {
   color: #061019;
 }
 
+.dougdoug {
+  background: linear-gradient(135deg, #ffbf47, #36d8ff);
+  color: #061019;
+}
+
 .emiru {
   background: linear-gradient(135deg, #ff4fa3, #36d8ff);
   color: #08090f;
 }
 
-.tyler {
+.ironmouse {
   background: linear-gradient(135deg, #c2ff5f, #ffbf47);
   color: #0d1205;
 }
 
-.xqc {
+.sykkuno {
   background: linear-gradient(135deg, #c2ff5f, #36d8ff);
   color: #061019;
 }

@@ -6,6 +6,9 @@ Important: paste the full article URL into Buffer, not just `https://critcircuit
 If Facebook shows only the plain domain preview, remove and re-add the link or run the exact
 article URL through the Facebook Sharing Debugger and click "Scrape Again."
 
+Do not use hashtags in Buffer captions. Keep the article URL on its own line so Buffer and
+Facebook do not merge extra text into the link.
+
 ## May 8 Fresh Posts
 
 ### Summer Game Fest 2026 Is About to Test Everyone's Trailer Patience
@@ -24,7 +27,6 @@ Players want dates, demos, gameplay, and fewer empty logo reveals.
 Read the full article:
 https://critcircuit.com/articles/summer-game-fest-2026-hype-test.html
 
-#SummerGameFest #GamingNews #GameTrailers #SGF2026 #CritCircuit
 ```
 
 X:
@@ -36,7 +38,6 @@ Dates. Gameplay. Demos. That is what cuts through now.
 
 https://critcircuit.com/articles/summer-game-fest-2026-hype-test.html
 
-#SummerGameFest #GamingNews #GameTrailers
 ```
 
 ### Forza Horizon 6 Is Turning May Into a Game Pass Stress Test
@@ -55,7 +56,6 @@ It is a May stress test for Game Pass, day-one releases, and whether subscriptio
 Read the full article:
 https://critcircuit.com/articles/forza-horizon-6-game-pass-may.html
 
-#ForzaHorizon6 #GamePass #Xbox #RacingGames #GamingNews
 ```
 
 X:
@@ -67,7 +67,6 @@ The question is not just whether it is big. It is whether day-one subscription l
 
 https://critcircuit.com/articles/forza-horizon-6-game-pass-may.html
 
-#ForzaHorizon6 #GamePass #GamingNews
 ```
 
 ### TwitchCon 2026 Is Quietly Making Creator Safety the Main Story
@@ -86,7 +85,6 @@ Creator safety, meetups, and support systems are becoming part of the headline.
 Read the full article:
 https://critcircuit.com/articles/twitchcon-2026-creator-safety.html
 
-#TwitchCon #StreamerNews #CreatorEconomy #Twitch #CritCircuit
 ```
 
 X:
@@ -98,7 +96,6 @@ Meetups, crowd flow, support, and clear systems matter more every year.
 
 https://critcircuit.com/articles/twitchcon-2026-creator-safety.html
 
-#TwitchCon #StreamerNews #CreatorEconomy
 ```
 
 ## Handheld Gaming PCs Have a Battery Problem Nobody Can Ignore
@@ -117,7 +114,6 @@ Performance matters. Staying unplugged matters more.
 Read the full article:
 https://critcircuit.com/articles/handheld-pc-battery-life.html
 
-#HandheldPC #PCGaming #GamingNews #SteamDeck #CritCircuit
 ```
 
 X:
@@ -129,7 +125,6 @@ The next winner may not be the fastest device. It may be the one that actually l
 
 https://critcircuit.com/articles/handheld-pc-battery-life.html
 
-#HandheldPC #PCGaming #GamingNews
 ```
 
 ## Cozy Games Are Done Being Treated Like Boring Games
@@ -148,7 +143,6 @@ The best ones are not just cute. They are smarter, stranger, and more emotionall
 Read the full article:
 https://critcircuit.com/articles/cozy-games-not-boring.html
 
-#CozyGames #IndieGames #GamingNews #CozyGaming #CritCircuit
 ```
 
 X:
@@ -160,7 +154,6 @@ The best ones are becoming smarter, stranger, and harder to dismiss.
 
 https://critcircuit.com/articles/cozy-games-not-boring.html
 
-#CozyGames #IndieGames #GamingNews
 ```
 
 ## Live-Service Games Are Running Out of Second Chances
@@ -179,7 +172,6 @@ Players are not rejecting every ongoing game. They are rejecting games that trea
 Read the full article:
 https://critcircuit.com/articles/live-service-fatigue.html
 
-#LiveService #GamingNews #OnlineGames #BattlePass #CritCircuit
 ```
 
 X:
@@ -191,5 +183,4 @@ Players can smell a weak season pass before the first patch notes arrive.
 
 https://critcircuit.com/articles/live-service-fatigue.html
 
-#LiveService #GamingNews #BattlePass
 ```

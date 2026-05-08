@@ -318,7 +318,7 @@ button.button {
   border-radius: 8px;
   display: grid;
   gap: 1rem;
-  grid-template-columns: minmax(180px, 0.42fr) minmax(0, 1fr);
+  grid-template-columns: minmax(140px, 0.34fr) minmax(0, 1fr);
   overflow: hidden;
   padding: 1rem;
 }
@@ -329,7 +329,7 @@ button.button {
 }
 
 .featured-card--lead .article-thumb {
-  min-height: 320px;
+  min-height: 220px;
 }
 
 .featured-card h3 {
@@ -526,7 +526,7 @@ button.button {
 .article-thumb,
 .article-cover {
   border-radius: 8px;
-  min-height: 220px;
+  min-height: 160px;
 }
 
 .article-cover {
@@ -579,23 +579,23 @@ button.button {
 
 .sgf-thumb {
   background:
-    linear-gradient(rgba(5, 8, 14, 0.08), rgba(5, 8, 14, 0.34)),
+    linear-gradient(rgba(5, 8, 14, 0.02), rgba(5, 8, 14, 0.12)),
     url("social-assets/summer-game-fest-2026-hype-test.png")
-      center / cover;
+      center / contain no-repeat #080d1b;
 }
 
 .forza-thumb {
   background:
-    linear-gradient(rgba(5, 8, 14, 0.08), rgba(5, 8, 14, 0.34)),
+    linear-gradient(rgba(5, 8, 14, 0.02), rgba(5, 8, 14, 0.12)),
     url("social-assets/forza-horizon-6-game-pass-may.png")
-      center / cover;
+      center / contain no-repeat #080d1b;
 }
 
 .twitchcon-thumb {
   background:
-    linear-gradient(rgba(5, 8, 14, 0.08), rgba(5, 8, 14, 0.34)),
+    linear-gradient(rgba(5, 8, 14, 0.02), rgba(5, 8, 14, 0.12)),
     url("social-assets/twitchcon-2026-creator-safety.png")
-      center / cover;
+      center / contain no-repeat #080d1b;
 }
 
 .creator-thumb {
@@ -853,7 +853,7 @@ footer p {
 
   .release-art,
   .article-thumb {
-    min-height: 180px;
+    min-height: 140px;
   }
 
   .featured-card,
@@ -862,7 +862,7 @@ footer p {
   }
 
   .featured-card--lead .article-thumb {
-    min-height: 210px;
+    min-height: 150px;
   }
 
   .featured-card h3,

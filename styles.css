@@ -579,23 +579,28 @@ button.button {
 
 .sgf-thumb {
   background:
-    linear-gradient(rgba(5, 8, 14, 0.02), rgba(5, 8, 14, 0.12)),
-    url("social-assets/summer-game-fest-2026-hype-test.png")
-      center / contain no-repeat #080d1b;
+    radial-gradient(circle at 22% 24%, rgba(79, 227, 255, 0.65), transparent 18%),
+    radial-gradient(circle at 72% 26%, rgba(255, 77, 166, 0.6), transparent 20%),
+    linear-gradient(135deg, rgba(79, 227, 255, 0.18), transparent 38%),
+    linear-gradient(150deg, #081426, #121024 52%, #25112c);
+  position: relative;
 }
 
 .forza-thumb {
   background:
-    linear-gradient(rgba(5, 8, 14, 0.02), rgba(5, 8, 14, 0.12)),
-    url("social-assets/forza-horizon-6-game-pass-may.png")
-      center / contain no-repeat #080d1b;
+    radial-gradient(circle at 78% 22%, rgba(74, 255, 145, 0.5), transparent 18%),
+    linear-gradient(120deg, transparent 0 22%, rgba(75, 144, 255, 0.72) 22% 26%, transparent 26% 44%, rgba(74, 255, 145, 0.6) 44% 48%, transparent 48%),
+    linear-gradient(160deg, #07131e, #10233a 48%, #0b271c);
+  position: relative;
 }
 
 .twitchcon-thumb {
   background:
-    linear-gradient(rgba(5, 8, 14, 0.02), rgba(5, 8, 14, 0.12)),
-    url("social-assets/twitchcon-2026-creator-safety.png")
-      center / contain no-repeat #080d1b;
+    radial-gradient(circle at 75% 28%, rgba(178, 119, 255, 0.55), transparent 22%),
+    radial-gradient(circle at 24% 70%, rgba(255, 214, 102, 0.34), transparent 20%),
+    linear-gradient(90deg, rgba(178, 119, 255, 0.7) 0 5px, transparent 5px 18px),
+    linear-gradient(145deg, #120d28, #0d1224 48%, #221530);
+  position: relative;
 }
 
 .creator-thumb {

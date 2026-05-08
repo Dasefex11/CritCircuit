@@ -610,6 +610,27 @@ button.button {
       center / cover;
 }
 
+.bad-sykkuno-thumb {
+  background:
+    radial-gradient(circle at 30% 25%, rgba(255, 77, 166, 0.52), transparent 20%),
+    linear-gradient(135deg, rgba(79, 227, 255, 0.16), transparent 38%),
+    linear-gradient(145deg, #151120, #061426 56%, #1d1229);
+}
+
+.bad-asmongold-thumb {
+  background:
+    radial-gradient(circle at 76% 30%, rgba(255, 91, 91, 0.48), transparent 22%),
+    linear-gradient(120deg, rgba(255, 191, 71, 0.42) 0 4px, transparent 4px 24px),
+    linear-gradient(145deg, #1c1111, #101522 52%, #27170a);
+}
+
+.bad-tfue-thumb {
+  background:
+    radial-gradient(circle at 68% 24%, rgba(74, 255, 145, 0.42), transparent 20%),
+    linear-gradient(120deg, transparent 0 18%, rgba(79, 227, 255, 0.54) 18% 22%, transparent 22% 44%, rgba(255, 77, 166, 0.45) 44% 47%, transparent 47%),
+    linear-gradient(145deg, #07131e, #121024 52%, #092118);
+}
+
 .streamer-grid {
   display: grid;
   gap: 1rem;

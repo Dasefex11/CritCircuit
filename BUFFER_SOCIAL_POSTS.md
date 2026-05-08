@@ -9,6 +9,83 @@ article URL through the Facebook Sharing Debugger and click "Scrape Again."
 Do not use hashtags in Buffer captions. Keep the article URL on its own line so Buffer and
 Facebook do not merge extra text into the link.
 
+## Streamers Behaving Badly
+
+### Sykkuno's Break Shows Why Streamer Trust Breaks So Loudly
+
+URL: https://critcircuit.com/articles/sykkuno-trust-break-streaming.html
+
+Facebook:
+
+```text
+Sykkuno's break from streaming shows how quickly creator trust can become the whole story.
+
+When personal conduct becomes public, fans do not just react to the news. They react to the version of the creator they thought they knew.
+
+Read the full article:
+https://critcircuit.com/articles/sykkuno-trust-break-streaming.html
+```
+
+X:
+
+```text
+Sykkuno's break is a reminder that creator trust is fragile.
+
+Fans do not just follow content. They follow the public persona behind it.
+
+https://critcircuit.com/articles/sykkuno-trust-break-streaming.html
+```
+
+### Asmongold's Twitch Ban Shows the Cost of Saying It Anyway
+
+URL: https://critcircuit.com/articles/asmongold-twitch-ban-comments.html
+
+Facebook:
+
+```text
+Asmongold's latest Twitch ban is not just about one ugly comment cycle.
+
+It is about what happens when shock, backlash, appeals, and repeat consequences become part of a creator's brand.
+
+Read the full article:
+https://critcircuit.com/articles/asmongold-twitch-ban-comments.html
+```
+
+X:
+
+```text
+Asmongold's Twitch ban shows the cost of saying it anyway.
+
+Platform rules can be messy. Creator responsibility still matters.
+
+https://critcircuit.com/articles/asmongold-twitch-ban-comments.html
+```
+
+### Tfue's ARC Raiders Unban Turned One Exploit Clip Into a Fairness Debate
+
+URL: https://critcircuit.com/articles/tfue-arc-raiders-unban-debate.html
+
+Facebook:
+
+```text
+Tfue's ARC Raiders controversy turned one exploit clip into a bigger fairness debate.
+
+The question players keep asking is simple: do big streamers get a different rulebook?
+
+Read the full article:
+https://critcircuit.com/articles/tfue-arc-raiders-unban-debate.html
+```
+
+X:
+
+```text
+Tfue's ARC Raiders unban became bigger than one exploit clip.
+
+Multiplayer communities care deeply about whether famous creators get special treatment.
+
+https://critcircuit.com/articles/tfue-arc-raiders-unban-debate.html
+```
+
 ## May 8 Fresh Posts
 
 ### Summer Game Fest 2026 Is About to Test Everyone's Trailer Patience

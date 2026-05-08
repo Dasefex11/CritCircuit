@@ -6,8 +6,32 @@
     <atom:link href="https://critcircuit.com/rss.xml" rel="self" type="application/rss+xml" />
     <description>Gaming drama, new releases, streamer culture, and daily articles without the stale press-release energy.</description>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 May 2026 07:45:00 -0400</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 13:45:00 -0400</lastBuildDate>
     <generator>CritCircuit static RSS</generator>
+    <item>
+      <title>Sykkuno's Break Shows Why Streamer Trust Breaks So Loudly</title>
+      <link>https://critcircuit.com/articles/sykkuno-trust-break-streaming.html</link>
+      <guid isPermaLink="true">https://critcircuit.com/articles/sykkuno-trust-break-streaming.html</guid>
+      <pubDate>Fri, 08 May 2026 13:45:00 -0400</pubDate>
+      <category>Streamer Accountability</category>
+      <description>Sykkuno's public break shows how admitted personal misconduct can become a creator trust story once it reaches a fan audience.</description>
+    </item>
+    <item>
+      <title>Asmongold's Twitch Ban Shows the Cost of Saying It Anyway</title>
+      <link>https://critcircuit.com/articles/asmongold-twitch-ban-comments.html</link>
+      <guid isPermaLink="true">https://critcircuit.com/articles/asmongold-twitch-ban-comments.html</guid>
+      <pubDate>Fri, 08 May 2026 13:40:00 -0400</pubDate>
+      <category>Streamer Accountability</category>
+      <description>Asmongold's 2026 Twitch ban turns another inflammatory comment cycle into a bigger question about platform rules and creator responsibility.</description>
+    </item>
+    <item>
+      <title>Tfue's ARC Raiders Unban Turned One Exploit Clip Into a Fairness Debate</title>
+      <link>https://critcircuit.com/articles/tfue-arc-raiders-unban-debate.html</link>
+      <guid isPermaLink="true">https://critcircuit.com/articles/tfue-arc-raiders-unban-debate.html</guid>
+      <pubDate>Fri, 08 May 2026 13:35:00 -0400</pubDate>
+      <category>Streamer Accountability</category>
+      <description>Tfue's fast ARC Raiders unban raised the question every multiplayer community asks: do big streamers live under different rules?</description>
+    </item>
     <item>
       <title>Summer Game Fest 2026 Is About to Test Everyone's Trailer Patience</title>
       <link>https://critcircuit.com/articles/summer-game-fest-2026-hype-test.html</link>

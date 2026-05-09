@@ -1,58 +1,23 @@
 # Update Site Commands
 
-Use these prompts when you want Codex to update CritCircuit.
+The old full-update prompts have been removed.
 
-## Full Daily Update
+CritCircuit should not auto-generate full articles from scratch. Use Codex as an editor, not the
+author. Start with your own voice note or rough draft, then ask for grammar, structure, sourcing,
+headline, and formatting help.
+
+## Article Editing Prompt
 
 ```text
-Update CritCircuit with 3 fresh gaming/streamer articles for today plus 3 extra Streamers Behaving Badly articles about sourced streamer accountability stories, such as admitted misconduct, platform bans, exploit/cheating enforcement, scams, or other documented public incidents. For each article, identify the target keyword or named topic, check current competing coverage, find a content gap CritCircuit can cover better, choose a stronger article angle, write a clickable but accurate headline, and create an SEO title, meta description, Open Graph title/description, and social caption. Do not use hashtags in Buffer/social captions; keep each article URL on its own line. Give every article a distinct topic-matching visual and social preview image; do not reuse the same few thumbnails across multiple articles, and avoid any image that clashes with the article topic, tone, or audience. Keep claims accurate, sourced, and careful about allegations; clearly separate confirmed facts from claims or reports. Add internal links when useful, update rss.xml with the newest posts, make the homepage show the newest 3 main articles first, add the 3 extra streamer accountability articles under a Streamers Behaving Badly section, move older articles into the archive/index, and use reader-friendly public section headings instead of internal planning language. Refresh the streamer section with 4 advertiser-friendly creators, avoid controversy-heavy public figures there, keep everything mobile-friendly, commit the changes, and push to GitHub so Netlify deploys.
+Here is my rough CritCircuit draft. Keep my opinion and voice intact. Fix grammar, tighten the
+structure, suggest a sharper headline, add source notes where needed, and format it for the site.
+Do not invent claims. Do not make it sound generic.
 ```
 
-## Short Daily Update
+## Publish Prompt
 
 ```text
-Run today's CritCircuit update: 3 new articles, homepage refresh, social captions, RSS update, archive older articles, then commit and push.
-```
-
-## Specific Topic Update
-
-```text
-Update CritCircuit today with 3 articles: one streamer drama story, one new game release story, and one opinion piece. Make the titles clickable but not fake, update the homepage, and push to GitHub.
-```
-
-## SEO-Focused Daily Update
-
-```text
-Update CritCircuit with 3 SEO-focused articles today. Use targeted prompts to identify trending gaming and streamer topics, analyze competitor coverage gaps, write stronger article angles, create clickable but accurate headlines, add SEO meta titles/descriptions, Open Graph tags, social captions without hashtags, update rss.xml, and update the homepage top 3. Commit and push to GitHub.
-```
-
-## SEO Workflow To Follow
-
-```text
-For each article:
-1. Identify the target keyword or named topic.
-2. Check what competing gaming/news sites are covering.
-3. Find the content gap: missing context, weak explanation, no timeline, no opinion angle, or no social-ready summary.
-4. Write a stronger angle for CritCircuit.
-5. Create an SEO title, article headline, meta description, Open Graph title/description, and social caption without hashtags.
-6. Add the article to rss.xml with title, link, description, category, guid, and pubDate.
-7. Keep the article accurate, source-aware, and clickable without making fake claims.
-```
-
-## One Article Only
-
-```text
-Write and publish one new CritCircuit article about [topic]. Make the title engaging, add it to the article index, update rss.xml, update the homepage if it belongs in today's top 3, then commit and push.
-```
-
-## Social Caption Refresh
-
-```text
-Refresh the CritCircuit social captions for the newest articles. Make captions strong for X/Facebook, keep them accurate, do not use hashtags, keep each URL on its own line, and push the update.
-```
-
-## Design Tweak
-
-```text
-Update the CritCircuit design to improve [mobile layout/readability/article cards/navigation/etc.]. Keep the article-first focus, verify the site stays responsive, then commit and push.
+Publish this approved CritCircuit article. Create the article page, add it to the homepage and
+article index, update rss.xml, create one Facebook caption with no hashtags, keep the URL on its
+own line, commit the changes, and push to GitHub.
 ```

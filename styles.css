@@ -617,6 +617,20 @@ button.button {
       center / cover;
 }
 
+.marathon-thumb {
+  background:
+    linear-gradient(rgba(5, 8, 14, 0.06), rgba(5, 8, 14, 0.3)),
+    url("social-assets/sony-bungie-bet-aaa-gaming-source.png")
+      center / cover;
+}
+
+.image-credit {
+  color: var(--muted);
+  font-size: 0.78rem;
+  font-weight: 800;
+  margin-top: -0.7rem;
+}
+
 .bad-sykkuno-thumb {
   background:
     radial-gradient(circle at 30% 25%, rgba(255, 77, 166, 0.52), transparent 20%),

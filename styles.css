@@ -610,6 +610,13 @@ button.button {
       center / cover;
 }
 
+.asmongold-thumb {
+  background:
+    linear-gradient(rgba(5, 8, 14, 0.05), rgba(5, 8, 14, 0.28)),
+    url("social-assets/golden-age-of-asmongold-source.png")
+      center / cover;
+}
+
 .bad-sykkuno-thumb {
   background:
     radial-gradient(circle at 30% 25%, rgba(255, 77, 166, 0.52), transparent 20%),

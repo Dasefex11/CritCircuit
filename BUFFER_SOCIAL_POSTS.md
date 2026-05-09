@@ -1,17 +1,16 @@
 # Buffer Social Posts
 
-No article captions are queued right now.
+## The Golden Age of Asmongold
 
-The old AI-written captions have been removed. When you write a new article in your own voice,
-use this file for the final Facebook caption only after you approve the article.
+URL: https://critcircuit.com/articles/golden-age-of-asmongold.html
 
-Caption format:
+Facebook:
 
 ```text
-Your short hook goes here.
+The golden age of Asmongold might already be behind us.
 
-One sentence that tells people why the article is worth clicking.
+For me, it was Classic WoW: McConnell, Olympus 4, AdvertiseSP, loot drama, ban appeals, and those random stream moments that felt impossible to script.
 
 Read the full article:
-https://critcircuit.com/articles/your-article-url.html
+https://critcircuit.com/articles/golden-age-of-asmongold.html
 ```
